@@ -15,7 +15,7 @@ export const ROUTES = {
 } as const;
 
 export const API_ENDPOINTS = {
-  BASE_URL: process.env.NODE_ENV === "production" ? "" : "http://localhost:3000",
+  BASE_URL: import.meta.env.PROD ? "" : "http://localhost:3000",
   USERS: "/api/users",
   DOCUMENTS: "/api/documents",
   REPORTS: "/api/reports",
