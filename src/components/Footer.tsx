@@ -105,7 +105,7 @@ const Footer = () => {
                   <MapPin className="w-5 h-5 text-coffee-orange mt-0.5" />
                   <span className="text-white/80">
                     Ragonvalia, Norte de Santander<br />
-                    Villa del Rosario - Cr 11 6-88
+                    Villa del Rosario - Cr 9 8-27
                   </span>
                 </li>
               </ul>

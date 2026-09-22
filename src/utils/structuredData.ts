@@ -13,7 +13,7 @@ export const getOrganizationStructuredData = () => ({
   "email": "info@cafeuribe.com",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Cr 11 6-88",
+    "streetAddress": "Cr 9 8-27",
     "addressLocality": "Ragonvalia",
     "addressRegion": "Norte de Santander",
     "addressCountry": "CO"
