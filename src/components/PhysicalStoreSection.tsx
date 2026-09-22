@@ -50,7 +50,7 @@ const PhysicalStoreSection = () => {
                   <MapPin className="w-6 h-6 mt-1 text-white/70" />
                   <div>
                     <p className="font-bold">Dirección</p>
-                    <p className="text-white/80">Cr 11 #6-88, Barrio Gramalote, Villa del Rosario</p>
+                    <p className="text-white/80">Cr 9 8-27, Barrio Gramalote, Villa del Rosario</p>
                   </div>
                 </div>
               </div>

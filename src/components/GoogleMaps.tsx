@@ -48,7 +48,7 @@ const GoogleMaps = () => {
                         </div>
                         <div>
                             <h4 className="font-semibold text-coffee-brown">Punto de Venta</h4>
-                            <p className="text-sm text-coffee-brown/70">Cr 11 6-88, Barrio Gramalote, Villa del Rosario</p>
+                            <p className="text-sm text-coffee-brown/70">Cr 9 8-27, Barrio Gramalote, Villa del Rosario</p>
                         </div>
                     </div>
                     <div className="rounded-lg overflow-hidden shadow-lg">
